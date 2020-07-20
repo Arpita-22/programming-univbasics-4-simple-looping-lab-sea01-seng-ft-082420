@@ -19,7 +19,7 @@ def output_array(array)
   counter = 0
   while counter<array.length
   puts array[counter]
-  counter +=l
+  counter +=1
 end 
 end
 
