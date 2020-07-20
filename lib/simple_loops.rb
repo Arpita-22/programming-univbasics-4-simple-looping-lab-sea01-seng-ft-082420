@@ -26,6 +26,8 @@ end
 def return_string_array(array)
    counter = 0
   while counter<array.length
-  puts array[counter]
+   array[counter] = ""
   counter +=l
+end
+return array
 end
