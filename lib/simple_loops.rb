@@ -16,4 +16,9 @@ end
 end
 
 def output_array(array)
+  counter = 0
+  while counter<array.length
+  puts array[counter]
+  counter +=l
+end 
 end
